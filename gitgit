@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <title>Hello from MySQL</title>
+</head>
+<body>
+  <h1>MySQL → Spring Boot → Front</h1>
+  <p id="text">불러오는 중...</p>
+</body>
+</html>
